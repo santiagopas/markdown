@@ -10,10 +10,15 @@
 ###### H6 Título
 
 ## Texto
+
 Texto en *italica*
+
 Texto en **negrita**
+
 Texto ~~tachado~~
+
 Texto subíndice Sub~indice~
+
 Texto superíndice  2^10^
 
 ## Listas desordenadas
